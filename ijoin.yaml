@@ -1,0 +1,9 @@
+roles:
+  - name: Developer
+    tasks:
+      - Learn the codebase
+      - Set up the development environment
+  - name: Data Scientist
+    tasks:
+      - Review existing data models
+      - Access the data analysis tools
