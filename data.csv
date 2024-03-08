@@ -1,0 +1,11 @@
+role,task,mentorEmail,expectedCompletionTime
+Developer,Learn the codebase,codebase@example.com,2 days
+Developer,Set up the development environment,environment@example.com,3 days
+Developer,Task 3,task3@example.com,1 day
+Developer,Task 4,task4@example.com,2 days
+Developer,Task 5,task5@example.com,1 day
+Data Scientist,Review existing data models,models@example.com,1 week
+Data Scientist,Access the data analysis tools,tools@example.com,2 days
+Data Scientist,Task 3,task3@example.com,1 day
+Data Scientist,Task 4,task4@example.com,2 days
+Data Scientist,Task 5,task5@example.com,1 day
