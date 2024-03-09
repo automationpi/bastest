@@ -1,4 +1,4 @@
-role,task,mentorEmail,expectedCompletionTime
+Role,Task,Mentor,Duration
 Developer,Learn the codebase,codebase@example.com,2 days
 Developer,Set up the development environment,environment@example.com,3 days
 Developer,Task 3,task3@example.com,1 day
